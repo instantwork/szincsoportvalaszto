@@ -1,0 +1,52 @@
+
+*
+  {
+   height:100%;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+   font-weight: bold;
+   color: #555773;
+  }
+
+body
+ {
+  margin: 0px;
+  padding: 0px;
+ }
+ 
+#page
+ {
+  min-height:100%;
+  position: relative;
+  background-color: #ffffff;
+ }
+ 
+#splash
+ {
+  width: 300px;
+  height: 75px;
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  margin: -38px 0 0 -150px;
+  background: transparent url(splash.png) no-repeat scroll bottom left;
+ }
+
+#product
+ {
+  width: 200px;
+  height: 20px;
+  position: absolute;
+  left: 15px;
+  bottom: 5px;
+ }
+
+#copyright
+ {
+  width: 200px;
+  height: 20px;
+  position: absolute;
+  right: 1px;
+  bottom: 5px;
+ }
+ 
